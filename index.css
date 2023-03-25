@@ -36,7 +36,7 @@ h1 {
     box-sizing: border-box;
     text-align: center;
     user-select: none;
-    transition: opacity 750ms, transform 100ms;
+    transition: opacity 750ms, transform 200ms;
 }
 
 #flashcard.is-flipped {
@@ -84,4 +84,13 @@ h1 {
     background-color: #f1f1f1;
     box-sizing: border-box;
     border: 0px solid rgb(41, 41, 41);
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgb(24, 24, 24);
 }
