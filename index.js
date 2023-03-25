@@ -10,6 +10,7 @@ const initialQuestionLength = question.length
 getQuestion()
 
 function getQuestion() {
+    flashcard.classList.remove('is-flipped')
     answer.hidden = true
     output.hidden = false
     flashcard.style.opacity = "0"
@@ -78,7 +79,6 @@ flashcardContainer.addEventListener("mouseup", function() {
         console.log("false")
         currentQuestion.correct = false
         getQuestion()
-
     } else if (flashcardX > 0.7*window.innerWidth) {
         console.log("correct")
         points++;
@@ -102,11 +102,15 @@ flashcard.addEventListener("touchstart", function() {
   flashcardContainer.addEventListener("touchend", function() {
     let flashcardX = flashcard.style.left.replace("px", "");
     if (flashcardX <= 0.3*window.innerWidth) {
-      console.log("faux");
-      getQuestion();
+        console.log("false")
+        currentQuestion.correct = false
+        getQuestion()
     } else if (flashcardX > 0.7*window.innerWidth) {
-      console.log("vrai");
-      getQuestion();
+        console.log("correct")
+        points++;
+        pointSpan.innerHTML = points;
+        currentQuestion.correct = true
+        getQuestion()
     } else {
       setTimeout(function() {
         flashcard.style.left = "50%";
