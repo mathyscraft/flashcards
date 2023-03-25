@@ -10,7 +10,6 @@ h1 {
 }
 #flashcard-container {
     width: 100vw;
-    height: 100vh;
 }
 
 #flashcard-container header {
@@ -89,6 +88,7 @@ h1 {
 footer {
     position: absolute;
     bottom: 0;
+    z-index: 0;
     text-align: center;
     width: 100%;
     padding-top:20px;
