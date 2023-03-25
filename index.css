@@ -27,6 +27,7 @@ h1 {
     top: 30%;
     width: 80%;
     transform: translate(-50%);
+    transform-style: preserve-3d;
 
     background-color: rgb(41, 41, 41);
     border-radius: 20px;
@@ -36,6 +37,13 @@ h1 {
     text-align: center;
     user-select: none;
     transition: opacity 750ms, transform 100ms;
+}
+
+#flashcard.is-flipped {
+    transform: rotateX(180deg) translate(-50%);
+}
+#answer {
+    transform: rotateX(180deg);
 }
 
 .side-indicators {

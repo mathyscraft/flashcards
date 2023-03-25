@@ -53,8 +53,12 @@ function getQuestion() {
     }, 800)
 }
 
+const soundEffect = document.createElement("audio");
+soundEffect.src = "mienria_apothecarium_page_turn.ogg";
 flashcard.addEventListener("click", function() {
     if (flashcard.style.left == "50%") {
+        soundEffect.play();
+        flashcard.classList.toggle('is-flipped')
         answer.hidden = !answer.hidden
         output.hidden = !output.hidden
     }
