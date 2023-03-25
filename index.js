@@ -47,7 +47,8 @@ function getQuestion() {
         // Mettre à jour le nombre de questions répondues et marquer la question comme posée
         answered++;
         currentQuestion.asked = true;
-        progressBar.style.borderLeftWidth = ((question.length + 1 - unansweredQuestions.length) / question.length) * 300 + "px"
+        console.log(progressBar.style.width)
+        progressBar.style.borderLeftWidth = ((question.length + 1 - unansweredQuestions.length) / question.length) * progressBar.getBoundingClientRect().width + "px"
         progressStat.innerHTML = (question.length + 1 - unansweredQuestions.length) +"/"+ question.length
     }, 800)
 }
