@@ -54,7 +54,9 @@ function getQuestion() {
 }
 
 const soundEffect = document.createElement("audio");
-soundEffect.src = "mienria_apothecarium_page_turn.ogg";
+soundEffect.src = "mineria_apothecarium_page_turn.mp3";
+soundEffect.play();
+soundEffect.pause();
 flashcard.addEventListener("click", function() {
     if (flashcard.style.left == "50%") {
         soundEffect.play();
