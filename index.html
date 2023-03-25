@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="index.css">
+  <title>flashcards</title>
+</head>
+<body>
+  <div id="flashcard-container">
+    <header>
+      <h1>flashcard</h1>
+      <h1>points : <span id="points">0</span></span></h1>
+    </header>
+    <div class="side-indicators">
+      <p id="false">Faux</p>
+      <div id="progress-div">
+        <span id="progress-stat"></span>
+        <div id="progress-bar"></div>
+      </div>
+      <p id="correct">Juste</p>
+    </div>
+    <div id="flashcard">
+      <h1 id="output">Chargement...</h1>
+      <h1 id="answer" hidden></h1>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="index.js"></script>
+</body>
+</html>

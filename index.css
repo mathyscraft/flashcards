@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(17, 17, 17);
+    color: #f1f1f1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+    overflow: hidden;
+}
+h1 {
+    font-size: 26px;
+}
+#flashcard-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+#flashcard-container header {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0 20px;
+    background-color: rgb(41, 41, 41);
+}
+
+#flashcard {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    width: 80%;
+    transform: translate(-50%);
+
+    background-color: rgb(41, 41, 41);
+    border-radius: 20px;
+    font-size: 24px;
+    padding: 50px 0;
+    box-sizing: border-box;
+    text-align: center;
+    user-select: none;
+    transition: opacity 750ms, transform 100ms;
+}
+
+.side-indicators {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 20px 0;
+}
+#false {
+    padding:10px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 5px solid red;
+    color: red;
+}
+#correct {
+    padding:10px;
+    margin:10px;
+    border-radius: 20px;
+    border: 5px solid green;
+    color: green;
+}
+#progress-div {
+    display: block;
+    text-align: center;
+}
+#progress-bar {
+    display: block;
+    margin: auto;
+    height: 5px;
+    width: 300px;
+    background-color: #f1f1f1;
+    box-sizing: border-box;
+    border: 0px solid rgb(41, 41, 41);
+}
