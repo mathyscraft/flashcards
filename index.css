@@ -40,9 +40,11 @@ header {
     top: 0;
     left: 0;
     z-index: 4;
-    background-color: rgb(41, 41, 41);
     padding: 30px;
     padding-top: 50px;
+    box-sizing: border-box;
+    max-width: 85vw;
+    background-color: rgb(41, 41, 41);
     font-size: 20px;
     border-radius: 20px;
     border-top-left-radius: 0;
