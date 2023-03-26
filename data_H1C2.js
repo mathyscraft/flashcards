@@ -5,7 +5,7 @@ var question=new Array
 
 // MONARCHIE LIMITEE (1815-1848)
 
-i=1
+i=0
 question[i]=new Object
 question[i].asked=false
 question[i].texte="Qu'accorde Louis XVIII à son retour en 1814 ?"
