@@ -10,7 +10,16 @@
 <body>
   <div id="flashcard-container">
     <header>
-      <h1>flashcard</h1>
+      <div id="left-header">
+        <img src="menu_hamburger.svg" alt="Menu" width="50px" id="hamburger">
+        <div id="menu" hidden>
+          <ul>
+            <li><span id="H1C1">H1C1</span></li>
+            <li><span id="H1C2">H1C2</span></li>
+          </ul>
+        </div>
+        <h1>flashcard</h1>
+      </div> 
       <h1>points : <span id="points">0</span></span></h1>
     </header>
     <div class="side-indicators">
@@ -30,7 +39,9 @@
     <p>&copy; 2023 <a href="https://github.com/mathyscraft">Mathys TS</a></p>
     <p>D'après les questionnaires de M.Bonnafous, professeur d'histoire et géographie</p>
   </footer>
-  <script src="data.js"></script>
+  <div id="overlay" hidden></div>
+  <script src="data_H1C1.js"></script>
   <script src="index.js"></script>
+  <script src="navigation.js"></script>
 </body>
 </html>
