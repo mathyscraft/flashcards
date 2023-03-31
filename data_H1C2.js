@@ -1,6 +1,4 @@
-
-var points=0
-var answered=0
+// Code de M.Bonnafous :
 var question=new Array
 
 // MONARCHIE LIMITEE (1815-1848)

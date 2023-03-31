@@ -7,6 +7,7 @@ const progressBar = document.getElementById("progress-bar")
 const progressStat = document.getElementById("progress-stat")
 let currentQuestion = {}
 const initialQuestionLength = question.length
+let points = 0
 getQuestion()
 
 function getQuestion() {
@@ -46,9 +47,7 @@ function getQuestion() {
         answer.innerHTML = currentQuestion.reponse;
     
         // Mettre à jour le nombre de questions répondues et marquer la question comme posée
-        answered++;
         currentQuestion.asked = true;
-        console.log(progressBar.style.width)
         progressBar.style.borderLeftWidth = ((question.length + 1 - unansweredQuestions.length) / question.length) * progressBar.getBoundingClientRect().width + "px"
         progressStat.innerHTML = (question.length + 1 - unansweredQuestions.length) +"/"+ question.length
     }, 800)
