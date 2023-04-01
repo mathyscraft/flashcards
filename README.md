@@ -22,7 +22,7 @@ Annie Playden, Marie Laurencin (et Marie Dubois)
 En Allemagne (Rhénanie où il recontre Annie Playden) puis à Londres (pour la rejoindre)
 
 - **Où Annie Playden fuit-elle définitivement ?**  
-En Amérique.² Apollinaire le vit comme une trahison (*« La Chanson du Mal-aimé »*)
+En Amérique. Apollinaire le vit comme une trahison (*« La Chanson du Mal-aimé »*)
 
 - **Que symbolise l'automne ?**  
 La mélancolie, la déception amoureuse (*« Automne Malade »*)
