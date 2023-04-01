@@ -14,7 +14,7 @@ var question = [
     },
     {
         "texte": "Que signifie le titre de l'oeuvre Alcools ?",
-        "reponse": "L'alcool évoque à la fois son pouvoir enivrant (ivresse poétique) mais aussi les brûlures qu'il peut infliger (= vie/amour)"
+        "reponse": "Il évoque à la fois le pouvoir enivrant de l'alcool (sources d'ivresse poétique) mais aussi les brûlures qu'il peut infliger (= vie/amour)"
     },
     // Amours malheureuses du poète
     {

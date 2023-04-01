@@ -1,4 +1,4 @@
-# Question pour Apollinaire (Alcools)
+# Questions pour Apollinaire (Alcools)
 ## Oeuvre
 
 - **De quand date la publication d'Alcools ?**  
@@ -11,7 +11,7 @@ La modernité
 L'absence de ponctuation
 
 - **Que signifie le titre de l'oeuvre Alcools ?**  
-L'alcool évoque à la fois son pouvoir enivrant (ivresse poétique) mais aussi les brûlures qu'il peut infliger (= vie/amour)
+Il évoque à la fois le pouvoir enivrant de l'alcool (sources d'ivresse poétique) mais aussi les brûlures qu'il peut infliger (= vie/amour)
 
 ## Amours malheureuses du poète
 
