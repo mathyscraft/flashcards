@@ -22,7 +22,7 @@ Annie Playden, Marie Laurencin (et Marie Dubois)
 En Allemagne (Rhénanie où il recontre Annie Playden) puis à Londres (pour la rejoindre)
 
 - **Où Annie Playden fuit-elle définitivement ?**  
-En Amérique, Apollinaire le vit comme une trahison (*« La Chanson du Mal-aimé »*)
+En Amérique.² Apollinaire le vit comme une trahison (*« La Chanson du Mal-aimé »*)
 
 - **Que symbolise l'automne ?**  
 La mélancolie, la déception amoureuse (*« Automne Malade »*)
@@ -44,10 +44,10 @@ Mouvement représenté par Marinetti selon lequel les vers se délestent de règ
 Peinture issue du mouvement baroque : représentation du memento mori.
 
 - **Quelles sont les définitions d'un avant-gardiste ?**  
-À l'origine, groupe de soldats qui marchent à l'écart de l'armée en éclaireur. Puis artistes et écrivains qui sont en avance sur leur temps.
+À l'origine, groupe de soldats qui marchent à l'écart de l'armée en éclaireur, puis artistes et écrivains qui sont en avance sur leur temps.
 
 - **Qu'est-ce que le lyrisme ?**  
-Au départ une poésie chantée accompagnée d'une lyre puis dès le XVIIIe, devient l'expression des sentiments personnels.
+Au départ une poésie chantée, accompagnée d'une lyre, puis dès le XVIIIe, devient l'expression des sentiments personnels.
 
 - **Qu'est-ce que le tempus fugit ?**  
 Étroitement lié au memento moris, c'est un motif traditionnel qui image la fuite du temps (l'eau qui s'écoule « Le Pont Mirabeau »).
@@ -56,7 +56,7 @@ Au départ une poésie chantée accompagnée d'une lyre puis dès le XVIIIe, dev
 À l'origine, l'élégie est un chant funèbre mais dès le Moyen-Âge, il s'agit de poèmes qui chantent les plaintes et douleurs de l'être humain.
 
 - **Comment appelle-t-on un "cliché" de la littérature ?**  
-Un topos (ou topoï).
+Un topos (des topoï).
 
 - **Comment nomme-t-on un thème ou procédé récurrent dans une œuvre ?**  
 Un leitmotiv.

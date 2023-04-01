@@ -27,7 +27,7 @@ var question = [
     },
     {
         "texte": "Où Annie Playden fuit-elle définitivement ?",
-        "reponse": "En Amérique, Apollinaire le vit comme une trahison (« La Chanson du Mal-aimé »)"
+        "reponse": "En Amérique. Apollinaire le vit comme une trahison (« La Chanson du Mal-aimé »)"
     },
     {
         "texte": "Que symbolise l'automne ?",
@@ -53,7 +53,7 @@ var question = [
     },
     {
         "texte": "Quelles sont les définitons d'un avangardiste",
-        "reponse": "A l'origine, groupe de soldats qui marchent à l'éccart de l'armée en éclaireur. Puis artistes et écrivains qui sont en avance sur leur temps"
+        "reponse": "A l'origine, groupe de soldats qui marchent à l'éccart de l'armée en éclaireur, puis artistes et écrivains qui sont en avance sur leur temps"
     },
     {
         "texte": "Qu'est-ce que le lyrisme ?",
@@ -69,7 +69,7 @@ var question = [
     },
     {
         "texte": "Comment appelle-t-on un \"cliché\" de la littérature ?",
-        "reponse": "Un topos (ou topoï)"
+        "reponse": "Un topos (des topoï)"
     },
     {
         "texte": "Comment nomme-t-on un thème ou procédé réccurrent dans une oeuvre ?",
