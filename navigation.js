@@ -22,9 +22,10 @@ function addList(button, source) {
 }
 
 addList(document.getElementById("apollinaire"), "data_apollinaire.js")
-addList(document.getElementById("H1C1"), "data_H1C1.js")
-addList(document.getElementById("H1C2"), "data_H1C2.js")
-addList(document.getElementById("H2C1"), "data_H2C1.js")
-addList(document.getElementById("H2C2"), "data_H2C2.js")
-addList(document.getElementById("H2C3"), "data_H2C3.js")
-addList(document.getElementById("H3C1"), "data_H3C1.js")
+addList(document.getElementById("H234"), "data_H234.js")
+// addList(document.getElementById("H1C1"), "data_H1C1.js")
+// addList(document.getElementById("H1C2"), "data_H1C2.js")
+// addList(document.getElementById("H2C1"), "data_H2C1.js")
+// addList(document.getElementById("H2C2"), "data_H2C2.js")
+// addList(document.getElementById("H2C3"), "data_H2C3.js")
+// addList(document.getElementById("H3C1"), "data_H3C1.js")
